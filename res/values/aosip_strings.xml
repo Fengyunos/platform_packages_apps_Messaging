@@ -28,4 +28,8 @@
     <string name="mediapicker_audio_list_item_selected_content_description">The audio is selected.</string>
     <string name="mediapicker_audio_list_item_unselected_content_description">The audio is unselected.</string>
     <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> selected</string>
+
+    <!-- Show emoticons -->
+    <string name="show_emoticons_pref_title">Emoticons access</string>
+    <string name="show_emoticons_pref_summary">Show the emoticons key on the keyboard</string>
 </resources>
